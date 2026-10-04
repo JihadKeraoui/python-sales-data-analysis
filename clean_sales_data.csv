@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Region,Quantity,Unit_Price,Revenue,Payment_Method
+ORD0001,2025-04-17,CUST072,Desk,Furniture,North,4,290.14,1160.56,Card
+ORD0002,2025-11-27,CUST088,Desk,Furniture,North,2,131.2,262.4,Bank Transfer
+ORD0003,2025-09-15,CUST088,Webcam,Electronics,West,3,42.26,126.78,Cash
+ORD0004,2025-10-04,CUST058,Office Chair,Furniture,South,2,161.82,323.64,Card
+ORD0005,2025-02-28,CUST015,Monitor,Electronics,South,1,258.63,258.63,Cash
+ORD0006,2025-09-01,CUST064,Desk,Furniture,North,3,176.49,529.47,PayPal
+ORD0007,2025-11-25,CUST018,Headphones,Accessories,West,3,133.64,400.92,Card
+ORD0008,2025-12-12,CUST053,Monitor,Electronics,South,2,284.06,568.12,Bank Transfer
+ORD0009,2025-09-21,CUST035,Monitor,Electronics,South,4,212.95,851.8,Card
+ORD0010,2025-01-02,CUST134,Monitor,Electronics,South,2,358.88,717.76,Cash
+ORD0011,2025-08-06,CUST044,Monitor,Electronics,South,5,441.79,2208.95,Cash
+ORD0012,2025-10-31,CUST015,Office Chair,Furniture,West,4,257.52,1030.08,Cash
+ORD0013,2025-10-23,CUST082,Desk,Furniture,East,4,109.05,436.2,Card
+ORD0014,2025-07-07,CUST124,Webcam,Electronics,North,2,146.18,292.36,Card
+ORD0015,2025-11-23,CUST009,Headphones,Accessories,West,5,45.81,229.05,Card
+ORD0016,2025-06-12,CUST033,Monitor,Electronics,East,3,233.69,701.07,Card
+ORD0017,2025-05-15,CUST072,Mouse,Accessories,West,2,18.48,36.96,Cash
+ORD0018,2025-12-26,CUST035,Laptop,Electronics,North,5,1051.28,5256.4,PayPal
+ORD0019,2025-08-06,CUST142,Headphones,Furniture,East,3,145.31,435.93,PayPal
+ORD0020,2025-06-28,CUST063,Laptop,Accessories,West,2,663.98,1327.96,PayPal
+ORD0021,2025-08-10,CUST143,Laptop,Electronics,East,4,959.8,3839.2,Card
+ORD0022,2025-07-06,CUST086,Monitor,Electronics,West,5,200.78,1003.9,Cash
+ORD0023,2025-05-14,CUST028,Mouse,Accessories,West,5,23.87,119.35,Bank Transfer
+ORD0024,2025-11-27,CUST128,Monitor,Electronics,South,4,420.99,1683.96,PayPal
+ORD0025,2025-08-13,CUST129,Monitor,Electronics,North,1,265.86,265.86,PayPal
+ORD0026,2025-08-21,CUST003,Office Chair,Furniture,East,1,308.14,308.14,Cash
+ORD0027,2025-06-14,CUST051,Webcam,Electronics,South,3,85.92,257.76,Bank Transfer
+ORD0028,2025-04-06,CUST113,Webcam,Electronics,South,3,75.55,226.65,Card
+ORD0029,2025-10-22,CUST130,Mouse,Accessories,East,4,22.41,89.64,Card
+ORD0030,2025-07-06,CUST113,Headphones,Accessories,South,1,179.67,179.67,Cash
+ORD0031,2025-05-06,CUST130,Monitor,Electronics,North,5,323.39,1616.95,Bank Transfer
+ORD0032,2025-07-03,CUST123,Mouse,Accessories,North,4,17.43,69.72,PayPal
+ORD0033,2025-07-17,CUST139,Office Chair,Furniture,East,5,265.43,1327.15,Bank Transfer
+ORD0034,2025-07-06,CUST070,Webcam,Electronics,West,1,56.58,56.58,Card
+ORD0035,2025-12-12,CUST147,Keyboard,Accessories,West,4,46.19,184.76,Bank Transfer
+ORD0036,2025-05-08,CUST039,Desk,Furniture,South,4,288.1,1152.4,Bank Transfer
+ORD0037,2025-05-31,CUST042,Laptop,Electronics,East,3,837.59,2512.77,PayPal
+ORD0038,2025-03-01,CUST113,Monitor,Electronics,South,2,445.19,890.38,Card
+ORD0039,2025-06-09,CUST009,Webcam,Electronics,North,4,101.41,405.64,PayPal
+ORD0040,2025-02-23,CUST120,Keyboard,Accessories,North,3,80.66,241.98,Bank Transfer
+ORD0041,2025-04-14,CUST084,Monitor,Electronics,South,3,432.62,1297.86,PayPal
+ORD0042,2025-12-15,CUST146,Webcam,Electronics,West,1,112.99,112.99,Cash
+ORD0043,2025-07-27,CUST068,Mouse,Accessories,North,2,35.76,71.52,Cash
+ORD0044,2025-05-15,CUST145,Headphones,Accessories,West,4,88.14,352.56,Card
+ORD0045,2025-01-22,CUST038,Webcam,Electronics,South,4,95.97,383.88,Card
+ORD0046,2025-10-04,CUST030,Keyboard,Accessories,North,3,53.24,159.72,Bank Transfer
+ORD0047,2025-11-13,CUST048,Desk,Furniture,East,1,139.05,139.05,Bank Transfer
+ORD0048,2025-06-21,CUST046,Keyboard,Accessories,North,1,27.83,27.83,Cash
+ORD0049,2025-10-07,CUST093,Keyboard,Accessories,North,4,26.0,104.0,Cash
+ORD0050,2025-04-26,CUST067,Headphones,Accessories,West,3,177.15,531.45,Cash
+ORD0051,2025-02-27,CUST067,Laptop,Electronics,West,2,1164.89,2329.78,Cash
+ORD0052,2025-12-08,CUST127,Webcam,Electronics,East,2,107.65,215.3,Cash
+ORD0053,2025-10-26,CUST039,Mouse,Accessories,North,2,37.22,74.44,Cash
+ORD0054,2025-01-13,CUST060,Desk,Furniture,South,2,262.02,524.04,PayPal
+ORD0055,2025-11-17,CUST008,Laptop,Electronics,West,4,1089.06,4356.24,Cash
+ORD0056,2025-05-23,CUST092,Webcam,Electronics,South,4,92.71,370.84,Cash
+ORD0057,2025-03-04,CUST125,Webcam,Electronics,South,3,91.22,273.66,Cash
+ORD0058,2025-11-22,CUST015,Mouse,Accessories,South,1,16.12,16.12,PayPal
+ORD0059,2025-02-22,CUST060,Monitor,Electronics,West,5,321.01,1605.05,Bank Transfer
+ORD0060,2025-12-16,CUST047,Headphones,Accessories,East,4,157.09,628.36,PayPal
+ORD0061,2025-05-04,CUST106,Webcam,Electronics,South,4,54.6,218.4,PayPal
+ORD0062,2025-12-12,CUST117,Laptop,Electronics,South,3,891.43,2674.29,PayPal
+ORD0063,2025-05-09,CUST058,Desk,Furniture,South,1,237.7,237.7,Card
+ORD0064,2025-04-28,CUST048,Desk,Furniture,North,2,147.96,295.92,Bank Transfer
+ORD0065,2025-07-08,CUST069,Headphones,Accessories,South,5,127.55,637.75,Card
+ORD0066,2025-05-24,CUST086,Desk,Furniture,North,3,149.55,448.65,Card
+ORD0067,2025-04-04,CUST144,Office Chair,Furniture,South,4,130.58,522.32,Cash
+ORD0068,2025-10-16,CUST101,Webcam,Electronics,East,5,92.08,460.4,Cash
+ORD0069,2025-06-29,CUST138,Mouse,Accessories,South,5,41.6,208.0,PayPal
+ORD0070,2025-01-04,CUST016,Mouse,Accessories,West,1,31.18,31.18,Bank Transfer
+ORD0071,2025-06-09,CUST084,Desk,Furniture,West,2,105.3,210.6,Bank Transfer
+ORD0072,2025-06-28,CUST101,Mouse,Accessories,West,3,34.3,102.9,PayPal
+ORD0073,2025-02-12,CUST044,Laptop,Electronics,North,1,1008.32,1008.32,Card
+ORD0074,2025-08-30,CUST035,Monitor,Electronics,East,2,190.52,381.04,Card
+ORD0075,2025-03-31,CUST115,Mouse,Accessories,North,5,40.35,201.75,PayPal
+ORD0076,2025-03-16,CUST120,Monitor,Electronics,West,2,368.12,736.24,Card
+ORD0077,2025-12-23,CUST099,Headphones,Accessories,West,5,115.92,579.6,Bank Transfer
+ORD0078,2025-06-01,,Mouse,Furniture,West,1,38.29,38.29,Card
+ORD0079,2025-12-21,CUST105,Desk,Furniture,South,5,247.98,1239.9,Card
+ORD0080,2025-12-08,CUST141,Laptop,Electronics,East,4,1104.55,4418.2,PayPal
+ORD0081,2025-08-21,CUST147,Laptop,Electronics,West,4,655.96,2623.84,Card
+ORD0082,2025-02-21,CUST083,Desk,Furniture,South,4,290.01,1160.04,PayPal
+ORD0083,2025-01-25,CUST123,Webcam,Electronics,North,5,50.09,250.45,Bank Transfer
+ORD0084,2025-06-30,CUST042,Headphones,Accessories,South,1,51.45,51.45,PayPal
+ORD0085,2025-08-03,CUST075,Office Chair,Furniture,South,2,221.55,443.1,PayPal
+ORD0086,2025-09-10,CUST007,Monitor,Electronics,South,1,385.61,385.61,Card
+ORD0087,2025-10-10,CUST122,Webcam,Electronics,South,2,83.63,167.26,Card
+ORD0088,2025-05-16,CUST109,Headphones,Accessories,North,5,68.82,344.1,Cash
+ORD0089,2025-08-05,CUST045,Monitor,Electronics,West,1,435.76,435.76,Bank Transfer
+ORD0090,2025-12-30,CUST091,Office Chair,Furniture,South,4,139.21,556.84,Cash
+ORD0091,2025-08-30,CUST126,Keyboard,Accessories,South,3,41.49,124.47,Bank Transfer
+ORD0092,2025-01-01,CUST131,Monitor,Electronics,North,5,402.15,2010.75,Bank Transfer
+ORD0093,2025-11-08,CUST117,Office Chair,Furniture,South,1,206.22,206.22,Cash
+ORD0094,2025-11-13,CUST047,Monitor,Electronics,North,5,441.87,2209.35,Bank Transfer
+ORD0095,2025-08-17,CUST147,Office Chair,Furniture,West,5,348.38,1741.9,Card
+ORD0096,2025-05-23,CUST001,Mouse,Accessories,North,1,21.5,21.5,Cash
+ORD0097,2025-01-12,,Office Chair,Furniture,West,3,327.27,981.81,Bank Transfer
+ORD0098,2025-01-08,CUST122,Webcam,Electronics,West,4,51.74,206.96,Bank Transfer
+ORD0099,2025-01-28,CUST101,Mouse,Accessories,North,2,21.88,43.76,Bank Transfer
+ORD0100,2025-05-25,CUST141,Webcam,Electronics,South,3,116.8,350.4,PayPal
+ORD0101,2025-07-16,CUST047,Headphones,Accessories,North,2,95.41,190.82,Cash
+ORD0102,2025-01-05,CUST119,Mouse,Accessories,West,2,31.55,63.1,Card
+ORD0103,2025-08-27,CUST011,Office Chair,Furniture,North,1,230.49,230.49,Cash
+ORD0104,2025-10-10,CUST098,Desk,Furniture,North,1,293.98,293.98,PayPal
+ORD0105,2025-11-07,CUST006,Desk,Furniture,West,1,102.73,102.73,Card
+ORD0106,2025-01-23,,Headphones,Accessories,North,5,179.51,897.55,Cash
+ORD0107,2025-03-19,CUST110,Mouse,Accessories,North,3,22.42,67.26,PayPal
+ORD0108,2025-10-15,CUST034,Headphones,Accessories,West,5,65.05,325.25,PayPal
+ORD0109,2025-04-28,CUST003,Webcam,Electronics,East,2,94.8,189.6,Cash
+ORD0110,2025-08-10,CUST057,Monitor,Electronics,North,1,329.01,329.01,Bank Transfer
+ORD0111,2025-03-07,CUST075,Desk,Furniture,East,5,224.06,1120.3,PayPal
+ORD0112,2025-11-02,CUST098,Office Chair,Furniture,South,4,345.51,1382.04,Cash
+ORD0113,2025-11-04,CUST079,Desk,Furniture,West,3,118.2,354.6,Cash
+ORD0114,2025-05-13,CUST029,Desk,Furniture,West,2,272.47,544.94,Cash
+ORD0115,2025-12-06,CUST069,Webcam,Electronics,South,1,94.13,94.13,Cash
+ORD0116,2025-08-23,CUST043,Headphones,Accessories,West,2,82.67,165.34,PayPal
+ORD0117,2025-12-02,CUST095,Keyboard,Accessories,East,1,54.91,54.91,Cash
+ORD0118,2025-07-03,CUST025,Webcam,Electronics,East,4,60.01,240.04,Bank Transfer
+ORD0119,2025-03-02,CUST122,Keyboard,Accessories,East,3,68.39,205.17,PayPal
+ORD0120,2025-06-19,CUST061,Headphones,Accessories,South,5,85.04,425.2,Card
+ORD0121,2025-01-12,CUST090,Office Chair,Furniture,South,1,242.92,242.92,Cash
+ORD0122,2025-03-14,CUST026,Laptop,Electronics,North,2,910.83,1821.66,PayPal
+ORD0123,2025-03-02,CUST081,Laptop,Furniture,South,3,1156.48,3469.44,Bank Transfer
+ORD0124,2025-06-29,CUST047,Laptop,Electronics,East,1,978.5,978.5,Bank Transfer
+ORD0125,2025-03-19,CUST130,Office Chair,Furniture,North,2,294.79,589.58,Cash
+ORD0126,2025-01-07,CUST003,Office Chair,Furniture,East,3,178.06,534.18,PayPal
+ORD0127,2025-10-01,CUST038,Office Chair,Furniture,East,3,242.39,727.17,PayPal
+ORD0128,2025-01-28,CUST039,Desk,Furniture,North,1,247.48,247.48,Card
+ORD0129,2025-01-25,CUST145,Desk,Furniture,North,2,207.07,414.14,Bank Transfer
+ORD0130,2025-08-21,CUST109,Laptop,Electronics,South,4,845.31,3381.24,PayPal
+ORD0131,2025-08-24,CUST083,Monitor,Electronics,South,2,330.59,661.18,Card
+ORD0132,2025-08-14,CUST059,Headphones,Accessories,North,4,128.66,514.64,Cash
+ORD0133,2025-05-30,CUST021,Headphones,Accessories,South,1,69.4,69.4,Cash
+ORD0134,2025-11-14,CUST094,Desk,Furniture,East,4,270.16,1080.64,Bank Transfer
+ORD0135,2025-08-31,CUST031,Desk,Furniture,West,1,116.05,116.05,Card
+ORD0136,2025-03-16,CUST004,Monitor,Electronics,East,2,335.52,671.04,Cash
+ORD0137,2025-03-03,CUST079,Office Chair,Furniture,East,1,232.87,232.87,Bank Transfer
+ORD0138,2025-05-13,CUST070,Mouse,Accessories,South,3,40.16,120.48,Cash
+ORD0139,2025-01-20,CUST113,Monitor,Electronics,West,3,233.87,701.61,PayPal
+ORD0140,2025-02-07,CUST037,Laptop,Electronics,South,2,1072.28,2144.56,PayPal
+ORD0141,2025-09-16,CUST134,Desk,Furniture,South,4,164.13,656.52,Bank Transfer
+ORD0142,2025-06-21,CUST130,Mouse,Accessories,North,5,16.9,84.5,Bank Transfer
+ORD0143,2025-04-11,CUST073,Mouse,Accessories,North,4,22.64,90.56,Card
+ORD0144,2025-11-01,CUST069,Keyboard,Accessories,South,3,47.68,143.04,Bank Transfer
+ORD0145,2025-05-17,CUST076,Monitor,Electronics,East,2,213.56,427.12,PayPal
+ORD0146,2025-11-24,CUST011,Laptop,Electronics,North,4,1113.01,4452.04,Card
+ORD0147,2025-08-01,CUST005,Office Chair,Furniture,East,4,157.64,630.56,PayPal
+ORD0148,2025-03-30,CUST042,Office Chair,Furniture,North,2,328.81,657.62,Cash
+ORD0149,2025-12-19,CUST023,Webcam,Electronics,East,3,108.65,325.95,PayPal
+ORD0150,2025-11-05,CUST104,Laptop,Electronics,West,1,845.45,845.45,PayPal
+ORD0151,2025-03-08,,Desk,Furniture,East,3,186.31,558.93,Bank Transfer
+ORD0152,2025-06-06,CUST033,Mouse,Accessories,West,4,38.82,155.28,Cash
+ORD0153,2025-02-07,CUST097,Desk,Furniture,North,3,257.72,773.16,Card
+ORD0154,2025-03-27,CUST066,Keyboard,Accessories,South,1,27.18,27.18,Card
+ORD0155,2025-10-21,CUST141,Keyboard,Accessories,East,2,47.24,94.48,PayPal
+ORD0156,2025-07-03,CUST015,Monitor,Electronics,North,5,214.42,1072.1,Bank Transfer
+ORD0157,2025-11-28,CUST130,Headphones,Accessories,East,5,68.24,341.2,PayPal
+ORD0158,2025-10-09,CUST043,Keyboard,Accessories,East,3,61.76,185.28,Card
+ORD0159,2025-12-26,CUST038,Monitor,Electronics,South,3,438.95,1316.85,Bank Transfer
+ORD0160,2025-08-06,CUST141,Desk,Furniture,West,2,289.46,578.92,Cash
+ORD0161,2025-04-14,CUST060,Mouse,Accessories,East,1,22.68,22.68,Bank Transfer
+ORD0162,2025-05-13,CUST120,Monitor,Electronics,North,4,428.06,1712.24,Bank Transfer
+ORD0163,2025-10-14,CUST122,Desk,Furniture,North,2,254.25,508.5,Cash
+ORD0164,2025-10-24,CUST011,Keyboard,Accessories,East,5,31.78,158.9,Card
+ORD0165,2025-04-20,CUST057,Office Chair,Furniture,North,5,346.51,1732.55,PayPal
+ORD0166,2025-05-29,CUST053,Office Chair,Furniture,North,3,255.99,767.97,Cash
+ORD0167,2025-10-18,CUST063,Monitor,Electronics,West,1,181.25,181.25,Card
+ORD0168,2025-07-29,CUST091,Mouse,Accessories,North,3,42.69,128.07,Bank Transfer
+ORD0169,2025-06-28,CUST025,Keyboard,Accessories,East,3,54.41,163.23,Bank Transfer
+ORD0170,2025-06-26,CUST029,Office Chair,Furniture,East,5,330.41,1652.05,PayPal
+ORD0171,2025-02-18,CUST081,Office Chair,Furniture,West,2,123.01,246.02,Card
+ORD0172,2025-03-04,CUST104,Laptop,Electronics,North,4,878.04,3512.16,PayPal
+ORD0173,2025-07-30,CUST062,Laptop,Electronics,West,5,868.52,4342.6,Cash
+ORD0174,2025-10-13,CUST144,Headphones,Accessories,West,1,40.3,40.3,PayPal
+ORD0175,2025-06-24,CUST113,Mouse,Accessories,South,1,38.27,38.27,Cash
+ORD0176,2025-09-21,CUST055,Office Chair,Furniture,East,3,155.71,467.13,PayPal
+ORD0177,2025-06-11,CUST124,Webcam,Electronics,North,2,69.78,139.56,PayPal
+ORD0178,2025-12-15,CUST008,Desk,Furniture,North,4,267.96,1071.84,Card
+ORD0179,2025-09-12,CUST072,Desk,Furniture,South,3,146.21,438.63,Card
+ORD0180,2025-04-07,,Desk,Furniture,East,5,135.71,678.55,Bank Transfer
+ORD0181,2025-03-19,CUST032,Mouse,Accessories,West,3,22.3,66.9,Cash
+ORD0182,2025-07-01,CUST142,Keyboard,Accessories,East,4,86.39,345.56,PayPal
+ORD0183,2025-09-20,CUST085,Webcam,Electronics,East,2,41.43,82.86,Bank Transfer
+ORD0184,2025-07-07,CUST082,Headphones,Accessories,South,3,119.54,358.62,Card
+ORD0185,2025-08-22,CUST130,Desk,Furniture,East,5,168.36,841.8,PayPal
+ORD0186,2025-10-20,CUST137,Desk,Furniture,South,4,266.13,1064.52,Card
+ORD0187,2025-12-08,CUST108,Monitor,Electronics,West,3,436.08,1308.24,Card
+ORD0188,2025-05-08,CUST114,Mouse,Accessories,East,3,41.84,125.52,Card
+ORD0189,2025-08-25,CUST025,Office Chair,Furniture,East,1,244.58,244.58,Card
+ORD0190,2025-06-03,CUST029,Office Chair,Furniture,North,3,216.99,650.97,Cash
+ORD0191,2025-05-26,CUST128,Desk,Furniture,North,5,103.68,518.4,Cash
+ORD0192,2025-01-17,CUST122,Monitor,Electronics,West,1,253.99,253.99,PayPal
+ORD0193,2025-01-27,CUST057,Headphones,Accessories,East,2,55.3,110.6,Cash
+ORD0194,2025-11-05,CUST138,Keyboard,Accessories,North,2,64.03,128.06,Card
+ORD0195,2025-05-02,CUST046,Mouse,Accessories,West,5,26.49,132.45,Cash
+ORD0196,2025-06-30,CUST036,Monitor,Electronics,East,3,229.78,689.34,Cash
+ORD0197,2025-01-11,CUST113,Headphones,Accessories,East,5,156.38,781.9,PayPal
+ORD0198,2025-02-24,CUST111,Webcam,Electronics,West,3,144.42,433.26,Cash
+ORD0199,2025-09-07,CUST036,Office Chair,Furniture,East,5,231.26,1156.3,Bank Transfer
+ORD0200,2025-12-03,CUST109,Keyboard,Accessories,East,3,79.7,239.1,Cash
+ORD0201,2025-03-14,CUST040,Laptop,Electronics,North,2,910.83,1821.66,Card
+ORD0202,2025-02-11,CUST025,Laptop,Electronics,East,5,1028.62,5143.1,PayPal
+ORD0203,2025-06-21,CUST102,Keyboard,Accessories,South,2,76.96,153.92,Bank Transfer
+ORD0204,2025-11-01,CUST017,Keyboard,Accessories,South,5,30.95,154.75,Card
+ORD0205,2025-11-14,CUST080,Desk,Furniture,West,1,137.03,137.03,PayPal
+ORD0206,2025-07-17,CUST025,Webcam,Electronics,South,5,123.49,617.45,Card
+ORD0207,2025-12-31,CUST026,Monitor,Electronics,East,3,446.67,1340.01,Bank Transfer
+ORD0208,2025-03-27,CUST135,Mouse,Accessories,South,1,20.42,20.42,PayPal
+ORD0209,2025-11-24,CUST059,Headphones,Accessories,East,1,115.92,115.92,Card
+ORD0210,2025-04-13,CUST017,Mouse,Accessories,South,4,40.34,161.36,PayPal
+ORD0211,2025-10-28,CUST098,Webcam,Electronics,East,3,101.67,305.01,Card
+ORD0212,2025-12-30,CUST039,Keyboard,Accessories,East,2,72.11,144.22,Bank Transfer
+ORD0213,2025-07-29,CUST016,Laptop,Electronics,North,4,1084.9,4339.6,Cash
+ORD0214,2025-06-19,CUST034,Monitor,Electronics,South,2,186.59,373.18,PayPal
+ORD0215,2025-04-06,CUST123,Desk,Furniture,East,5,205.79,1028.95,Cash
+ORD0216,2025-11-14,CUST016,Monitor,Electronics,West,5,387.14,1935.7,Bank Transfer
+ORD0217,2025-12-25,CUST084,Desk,Furniture,North,1,253.65,253.65,Card
+ORD0218,2025-05-22,CUST120,Office Chair,Furniture,South,1,145.41,145.41,Cash
+ORD0219,2025-06-02,CUST073,Monitor,Electronics,East,2,243.07,486.14,Card
+ORD0220,2025-10-20,CUST061,Laptop,Electronics,North,4,770.04,3080.16,PayPal
+ORD0221,2025-08-14,CUST052,Monitor,Electronics,West,3,424.01,1272.03,PayPal
+ORD0222,2025-11-06,CUST117,Webcam,Electronics,East,4,132.16,528.64,Card
+ORD0223,2025-11-09,CUST003,Office Chair,Furniture,West,2,130.8,261.6,Cash
+ORD0224,2025-08-03,CUST009,Headphones,Accessories,East,5,126.32,631.6,Bank Transfer
+ORD0225,2025-06-27,CUST082,Mouse,Accessories,South,1,20.22,20.22,Card
+ORD0226,2025-09-26,CUST120,Webcam,Electronics,North,3,129.74,389.22,PayPal
+ORD0227,2025-12-23,CUST098,Laptop,Electronics,East,1,1142.21,1142.21,Card
+ORD0228,2025-01-29,CUST137,Webcam,Electronics,East,3,70.03,210.09,Card
+ORD0229,2025-02-09,CUST025,Mouse,Accessories,North,4,16.06,64.24,Unknown
+ORD0230,2025-02-07,CUST072,Keyboard,Accessories,East,2,51.55,103.1,Card
+ORD0231,2025-02-06,CUST060,Webcam,Electronics,West,2,98.59,197.18,Card
+ORD0232,2025-04-24,CUST040,Monitor,Electronics,North,5,447.7,2238.5,Bank Transfer
+ORD0233,2025-11-19,CUST056,Office Chair,Furniture,West,5,328.5,1642.5,Cash
+ORD0234,2025-10-16,CUST006,Webcam,Electronics,West,3,135.09,405.27,PayPal
+ORD0235,2025-02-28,CUST048,Webcam,Electronics,North,4,133.56,534.24,Card
+ORD0236,2025-06-19,CUST100,Keyboard,Accessories,East,5,70.34,351.7,PayPal
+ORD0237,2025-08-23,CUST045,Office Chair,Furniture,South,4,156.48,625.92,Card
+ORD0238,2025-12-29,CUST039,Keyboard,Accessories,East,2,33.38,66.76,Cash
+ORD0239,2025-01-12,CUST039,Monitor,Electronics,South,2,404.68,809.36,Bank Transfer
+ORD0240,2025-01-17,CUST104,Headphones,Accessories,East,3,177.27,531.81,Cash
+ORD0241,2025-11-22,CUST074,Monitor,Electronics,North,5,390.56,1952.8,Bank Transfer
+ORD0242,2025-08-10,CUST037,Mouse,Accessories,North,4,33.98,135.92,Cash
+ORD0243,2025-08-30,CUST068,Monitor,Electronics,East,4,365.73,1462.92,Bank Transfer
+ORD0244,2025-07-12,CUST022,Laptop,Electronics,South,4,687.04,2748.16,Bank Transfer
+ORD0245,2025-07-11,CUST029,Keyboard,Accessories,West,2,81.65,163.3,Bank Transfer
+ORD0246,2025-01-07,CUST029,Keyboard,Accessories,East,3,63.64,190.92,Card
+ORD0247,2025-01-26,CUST029,Office Chair,Furniture,West,3,178.08,534.24,Card
+ORD0248,2025-09-28,CUST119,Keyboard,Accessories,North,5,80.52,402.6,Card
+ORD0249,2025-06-24,CUST084,Keyboard,Accessories,South,4,79.6,318.4,PayPal
+ORD0250,2025-08-24,CUST092,Keyboard,Accessories,North,3,86.81,260.43,Card
+ORD0251,2025-09-19,CUST147,Desk,Furniture,North,5,227.71,1138.55,Card
+ORD0252,2025-01-15,CUST064,Keyboard,Accessories,North,3,51.61,154.83,Card
+ORD0253,2025-07-27,CUST027,Webcam,Electronics,West,4,101.9,407.6,Bank Transfer
+ORD0254,2025-11-05,CUST008,Office Chair,Furniture,East,1,319.78,319.78,PayPal
+ORD0255,2025-12-15,CUST024,Office Chair,Furniture,West,2,295.04,590.08,Unknown
+ORD0256,2025-06-02,CUST017,Keyboard,Accessories,South,4,76.77,307.08,Bank Transfer
+ORD0257,2025-11-15,CUST117,Monitor,Electronics,South,4,330.77,1323.08,Bank Transfer
+ORD0258,2025-07-28,CUST072,Webcam,Electronics,North,3,148.28,444.84,Cash
+ORD0259,2025-04-05,CUST032,Office Chair,Furniture,East,2,230.39,460.78,Card
+ORD0260,2025-09-24,CUST088,Laptop,Electronics,North,1,1173.96,1173.96,Card
+ORD0261,2025-03-21,CUST054,Monitor,Electronics,South,1,334.14,334.14,Bank Transfer
+ORD0262,2025-08-30,CUST097,Monitor,Electronics,South,1,331.11,331.11,Card
+ORD0263,2025-03-18,CUST116,Laptop,Electronics,South,1,842.84,842.84,Cash
+ORD0264,2025-03-31,CUST122,Desk,Furniture,South,2,295.49,590.98,PayPal
+ORD0265,2025-11-01,CUST104,Mouse,Accessories,East,2,20.02,40.04,Card
+ORD0266,2025-09-19,CUST073,Keyboard,Accessories,East,3,27.05,81.15,PayPal
+ORD0267,2025-09-21,CUST072,Webcam,Electronics,South,1,118.0,118.0,Bank Transfer
+ORD0268,2025-09-08,CUST127,Office Chair,Furniture,East,4,198.07,792.28,PayPal
+ORD0269,2025-01-22,CUST127,Monitor,Electronics,East,4,341.32,1365.28,PayPal
+ORD0270,2025-01-12,CUST087,Laptop,Electronics,West,4,1052.37,4209.48,Card
+ORD0271,2025-05-27,CUST055,Laptop,Electronics,South,5,988.66,4943.3,Bank Transfer
+ORD0272,2025-07-02,CUST032,Headphones,Accessories,East,5,149.51,747.55,Bank Transfer
+ORD0273,2025-02-06,CUST096,Mouse,Accessories,West,2,34.6,69.2,Card
+ORD0274,2025-08-31,CUST035,Keyboard,Accessories,North,3,30.3,90.9,Card
+ORD0275,2025-11-01,CUST094,Office Chair,Furniture,North,1,313.3,313.3,PayPal
+ORD0276,2025-10-20,CUST004,Mouse,Accessories,West,5,40.39,201.95,Bank Transfer
+ORD0277,2025-02-19,CUST096,Office Chair,Furniture,North,4,236.11,944.44,Bank Transfer
+ORD0278,2025-08-16,CUST066,Mouse,Accessories,East,5,26.87,134.35,Cash
+ORD0279,2025-07-05,CUST125,Monitor,Electronics,West,2,447.88,895.76,PayPal
+ORD0280,2025-08-13,CUST099,Headphones,Accessories,South,2,126.58,253.16,Bank Transfer
+ORD0281,2025-11-30,CUST002,Monitor,Electronics,East,2,244.14,488.28,Card
+ORD0282,2025-11-12,CUST125,Headphones,Accessories,East,5,98.39,491.95,Cash
+ORD0283,2025-08-19,CUST070,Webcam,Electronics,North,1,112.89,112.89,PayPal
+ORD0284,2025-06-12,CUST005,Laptop,Electronics,East,1,869.48,869.48,Card
+ORD0285,2025-10-28,CUST047,Webcam,Electronics,East,4,54.4,217.6,PayPal
+ORD0286,2025-03-21,CUST093,Mouse,Accessories,South,3,28.26,84.78,Bank Transfer
+ORD0287,2025-10-03,CUST008,Office Chair,Furniture,East,1,219.1,219.1,Bank Transfer
+ORD0288,2025-10-11,CUST121,Laptop,Electronics,East,1,741.87,741.87,Unknown
+ORD0289,2025-11-01,CUST120,Desk,Furniture,West,5,206.7,1033.5,Bank Transfer
+ORD0290,2025-11-30,CUST130,Monitor,Electronics,North,4,325.77,1303.08,PayPal
+ORD0291,2025-01-01,CUST119,Headphones,Accessories,East,4,42.5,170.0,Cash
+ORD0292,2025-06-10,CUST012,Headphones,Accessories,South,5,47.84,239.2,Bank Transfer
+ORD0293,2025-10-26,CUST126,Headphones,Accessories,South,2,174.94,349.88,Card
+ORD0294,2025-08-11,CUST038,Mouse,Accessories,West,5,41.04,205.2,PayPal
+ORD0295,2025-08-22,CUST124,Webcam,Electronics,East,5,55.79,278.95,Bank Transfer
+ORD0296,2025-09-21,CUST096,Mouse,Accessories,South,5,17.82,89.1,Card
+ORD0297,2025-04-29,CUST114,Desk,Electronics,South,2,232.33,464.66,Card
+ORD0298,2025-11-24,CUST089,Mouse,Accessories,South,1,15.91,15.91,Bank Transfer
+ORD0299,2025-05-22,CUST053,Laptop,Electronics,West,1,768.62,768.62,Card
+ORD0300,2025-07-11,CUST063,Laptop,Electronics,North,2,841.72,1683.44,Card
+ORD0301,2025-03-14,,Laptop,Electronics,East,1,1128.91,1128.91,Card
+ORD0302,2025-04-12,CUST132,Keyboard,Accessories,South,4,67.28,269.12,PayPal
+ORD0303,2025-10-06,CUST083,Office Chair,Furniture,North,2,295.33,590.66,PayPal
+ORD0304,2025-03-06,CUST076,Laptop,Electronics,South,1,830.61,830.61,PayPal
+ORD0305,2025-04-03,CUST049,Desk,Furniture,West,5,176.08,880.4,Card
+ORD0306,2025-09-24,CUST099,Keyboard,Accessories,West,4,25.95,103.8,Cash
+ORD0307,2025-09-22,CUST003,Office Chair,Furniture,North,2,294.65,589.3,Cash
+ORD0308,2025-04-27,CUST012,Webcam,Electronics,North,2,92.71,185.42,Cash
+ORD0309,2025-08-16,CUST015,Webcam,Electronics,East,5,67.07,335.35,Bank Transfer
+ORD0310,2025-01-21,CUST107,Desk,Furniture,East,2,243.1,486.2,Bank Transfer
+ORD0311,2025-10-08,CUST036,Desk,Furniture,East,5,279.61,1398.05,PayPal
+ORD0312,2025-10-02,CUST034,Desk,Furniture,South,4,286.89,1147.56,Card
+ORD0313,2025-01-27,CUST035,Monitor,Electronics,West,5,256.92,1284.6,Bank Transfer
+ORD0314,2025-01-02,CUST077,Mouse,Accessories,West,4,36.53,146.12,Cash
+ORD0315,2025-04-18,CUST074,Laptop,Electronics,East,3,717.77,2153.31,Card
+ORD0316,2025-10-25,CUST036,Desk,Furniture,West,1,213.46,213.46,Bank Transfer
+ORD0317,2025-06-22,CUST106,Office Chair,Furniture,East,1,205.91,205.91,PayPal
+ORD0318,2025-01-26,CUST009,Headphones,Accessories,East,5,163.21,816.05,Cash
+ORD0319,2025-06-19,CUST072,Webcam,Electronics,West,2,79.68,159.36,Bank Transfer
+ORD0320,2025-03-09,CUST050,Laptop,Electronics,West,2,790.6,1581.2,PayPal
+ORD0321,2025-12-11,CUST146,Monitor,Electronics,East,4,361.28,1445.12,Bank Transfer
+ORD0322,2025-03-10,CUST049,Mouse,Accessories,East,1,27.72,27.72,Bank Transfer
+ORD0323,2025-05-30,CUST037,Mouse,Accessories,East,1,21.5,21.5,PayPal
+ORD0324,2025-03-19,CUST077,Monitor,Electronics,North,3,242.63,727.89,Card
+ORD0325,2025-10-18,CUST007,Office Chair,Furniture,North,1,347.19,347.19,Cash
+ORD0326,2025-06-16,,Keyboard,Accessories,West,2,52.83,105.66,Cash
+ORD0327,2025-02-11,CUST032,Keyboard,Accessories,East,4,72.08,288.32,Card
+ORD0328,2025-12-19,CUST131,Office Chair,Furniture,North,4,139.7,558.8,Bank Transfer
+ORD0329,2025-07-15,CUST013,Laptop,Electronics,North,3,838.96,2516.88,Bank Transfer
+ORD0330,2025-01-27,CUST149,Mouse,Accessories,West,4,39.01,156.04,Cash
+ORD0331,2025-10-27,CUST125,Webcam,Electronics,South,2,114.81,229.62,PayPal
+ORD0332,2025-09-15,CUST102,Office Chair,Furniture,North,2,348.65,697.3,PayPal
+ORD0333,2025-10-27,CUST036,Mouse,Accessories,North,4,16.8,67.2,Card
+ORD0334,2025-04-16,CUST121,Headphones,Accessories,East,1,115.92,115.92,Bank Transfer
+ORD0335,2025-05-16,CUST003,Monitor,Electronics,West,1,261.23,261.23,Cash
+ORD0336,2025-04-28,CUST005,Headphones,Accessories,West,4,176.25,705.0,Bank Transfer
+ORD0337,2025-10-13,CUST149,Webcam,Electronics,West,4,66.8,267.2,Cash
+ORD0338,2025-10-15,CUST016,Office Chair,Furniture,West,2,301.22,602.44,Cash
+ORD0339,2025-10-19,CUST114,Monitor,Electronics,North,2,197.04,394.08,Cash
+ORD0340,2025-09-06,CUST075,Laptop,Electronics,East,5,840.48,4202.4,Bank Transfer
+ORD0341,2025-11-07,CUST006,Office Chair,Furniture,East,2,258.14,516.28,Cash
+ORD0342,2025-01-12,CUST049,Keyboard,Accessories,South,4,80.34,321.36,Cash
+ORD0343,2025-08-04,CUST134,Mouse,Accessories,East,5,26.42,132.1,Bank Transfer
+ORD0344,2025-06-12,CUST066,Desk,Furniture,East,4,263.75,1055.0,Cash
+ORD0345,2025-09-13,CUST010,Keyboard,Accessories,North,2,87.23,174.46,Cash
+ORD0346,2025-06-13,CUST095,Laptop,Electronics,South,5,1124.11,5620.55,Card
+ORD0347,2025-01-25,CUST141,Office Chair,Furniture,North,5,193.03,965.15,Cash
+ORD0348,2025-01-25,CUST079,Webcam,Electronics,West,5,42.84,214.2,Card
+ORD0349,2025-04-06,CUST092,Monitor,Electronics,North,4,440.77,1763.08,PayPal
+ORD0350,2025-11-12,CUST134,Office Chair,Furniture,West,4,221.09,884.36,Card
+ORD0351,2025-10-14,CUST005,Keyboard,Accessories,East,2,67.26,134.52,Cash
+ORD0352,2025-09-24,CUST056,Mouse,Accessories,East,1,16.74,16.74,Card
+ORD0353,2025-05-29,CUST073,Desk,Furniture,West,3,134.13,402.39,Cash
+ORD0354,2025-09-09,CUST097,Office Chair,Furniture,West,3,160.89,482.67,Bank Transfer
+ORD0355,2025-11-04,CUST052,Desk,Furniture,West,1,146.53,146.53,Bank Transfer
+ORD0356,2025-04-26,CUST062,Office Chair,Furniture,West,2,150.06,300.12,Card
+ORD0357,2025-01-14,CUST086,Keyboard,Accessories,North,3,51.92,155.76,Cash
+ORD0358,2025-09-03,CUST079,Desk,Furniture,North,2,126.76,253.52,Cash
+ORD0359,2025-03-06,CUST013,Desk,Furniture,North,2,137.94,275.88,Cash
+ORD0360,2025-12-04,CUST139,Mouse,Accessories,East,5,44.28,221.4,Card
+ORD0361,2025-07-15,CUST034,Monitor,Electronics,West,5,311.83,1559.15,Bank Transfer
+ORD0362,2025-08-21,CUST042,Monitor,Electronics,North,2,308.52,617.04,Cash
+ORD0363,2025-01-17,CUST120,Headphones,Accessories,North,1,173.52,173.52,Card
+ORD0364,2025-01-29,CUST097,Laptop,Electronics,South,2,890.68,1781.36,Cash
+ORD0365,2025-10-11,CUST034,Mouse,Accessories,West,4,38.44,153.76,PayPal
+ORD0366,2025-12-09,CUST088,Office Chair,Furniture,North,1,261.2,261.2,PayPal
+ORD0367,2025-04-11,CUST008,Headphones,Accessories,North,4,109.27,437.08,Bank Transfer
+ORD0368,2025-06-01,CUST017,Laptop,Electronics,North,3,1012.47,3037.41,Bank Transfer
+ORD0369,2025-08-16,CUST139,Headphones,Accessories,West,2,101.98,203.96,PayPal
+ORD0370,2025-09-18,CUST005,Keyboard,Accessories,South,3,37.04,111.12,Cash
+ORD0371,2025-08-08,CUST081,Webcam,Electronics,East,2,42.3,84.6,Bank Transfer
+ORD0372,2025-02-18,CUST036,Webcam,Electronics,South,1,147.36,147.36,Bank Transfer
+ORD0373,2025-04-29,CUST114,Office Chair,Furniture,South,1,268.1,268.1,Card
+ORD0374,2025-09-15,CUST118,Monitor,Electronics,North,4,308.07,1232.28,Card
+ORD0375,2025-01-10,CUST015,Webcam,Electronics,North,4,57.23,228.92,Bank Transfer
+ORD0376,2025-11-11,CUST078,Mouse,Accessories,West,1,26.17,26.17,Cash
+ORD0377,2025-08-01,CUST032,Laptop,Electronics,East,2,1168.69,2337.38,Cash
+ORD0378,2025-02-01,CUST119,Laptop,Electronics,East,5,807.25,4036.25,Card
+ORD0379,2025-05-29,CUST141,Monitor,Electronics,South,1,326.88,326.88,Card
+ORD0380,2025-09-13,CUST086,Office Chair,Furniture,South,4,132.39,529.56,PayPal
+ORD0381,2025-09-15,CUST029,Laptop,Electronics,North,4,673.75,2695.0,PayPal
+ORD0382,2025-03-29,CUST044,Monitor,Electronics,North,3,440.59,1321.77,Cash
+ORD0383,2025-07-03,CUST003,Keyboard,Accessories,East,5,63.37,316.85,Cash
+ORD0384,2025-04-18,CUST111,Keyboard,Accessories,North,5,31.09,155.45,Bank Transfer
+ORD0385,2025-03-13,CUST129,Headphones,Accessories,West,2,115.92,231.84,Card
+ORD0386,2025-08-12,CUST064,Keyboard,Accessories,South,1,43.06,43.06,Cash
+ORD0387,2025-10-29,,Keyboard,Accessories,North,1,61.08,61.08,Bank Transfer
+ORD0388,2025-03-27,CUST090,Headphones,Accessories,South,1,115.36,115.36,Cash
+ORD0389,2025-05-01,CUST121,Monitor,Electronics,West,1,323.39,323.39,PayPal
+ORD0390,2025-03-11,CUST056,Webcam,Electronics,East,3,132.62,397.86,Card
+ORD0391,2025-05-12,CUST020,Mouse,Accessories,South,4,26.56,106.24,Bank Transfer
+ORD0392,2025-08-18,CUST054,Office Chair,Furniture,West,3,151.7,455.1,PayPal
+ORD0393,2025-09-17,CUST057,Headphones,Accessories,North,2,124.84,249.68,Bank Transfer
+ORD0394,2025-01-03,CUST080,Laptop,Electronics,South,4,930.56,3722.24,PayPal
+ORD0395,2025-01-24,CUST082,Monitor,Electronics,East,4,194.26,777.04,PayPal
+ORD0396,2025-11-15,CUST110,Monitor,Electronics,East,4,266.97,1067.88,Cash
+ORD0397,2025-11-10,CUST117,Webcam,Electronics,East,5,122.05,610.25,Bank Transfer
+ORD0398,2025-08-16,CUST094,Webcam,Electronics,East,3,88.42,265.26,Card
+ORD0399,2025-04-26,CUST113,Desk,Furniture,East,1,117.72,117.72,Bank Transfer
+ORD0400,2025-04-28,CUST045,Keyboard,Accessories,North,3,72.69,218.07,Card
+ORD0401,2025-02-16,CUST143,Office Chair,Furniture,South,4,234.12,936.48,PayPal
+ORD0402,2025-05-17,CUST090,Office Chair,Furniture,West,4,208.28,833.12,Card
+ORD0403,2025-02-19,CUST003,Laptop,Electronics,North,4,849.23,3396.92,PayPal
+ORD0404,2025-12-31,CUST051,Laptop,Electronics,North,5,1033.72,5168.6,PayPal
+ORD0405,2025-03-10,CUST093,Mouse,Accessories,West,3,27.89,83.67,Card
+ORD0406,2025-07-11,CUST005,Monitor,Electronics,West,1,297.5,297.5,Cash
+ORD0407,2025-10-22,CUST129,Mouse,Accessories,West,4,16.5,66.0,Card
+ORD0408,2025-11-12,CUST108,Monitor,Electronics,West,1,222.91,222.91,Card
+ORD0409,2025-02-05,CUST108,Desk,Furniture,South,4,231.39,925.56,Unknown
+ORD0410,2025-08-08,CUST014,Office Chair,Furniture,West,4,183.42,733.68,Cash
+ORD0411,2025-03-11,CUST044,Webcam,Electronics,North,2,132.93,265.86,Card
+ORD0412,2025-09-07,CUST107,Monitor,Electronics,North,3,196.92,590.76,Card
+ORD0413,2025-01-07,CUST070,Monitor,Electronics,East,2,291.0,582.0,PayPal
+ORD0414,2025-05-23,CUST149,Mouse,Accessories,South,3,43.9,131.7,Cash
+ORD0415,2025-01-21,CUST082,Monitor,Electronics,North,1,313.51,313.51,PayPal
+ORD0416,2025-11-01,CUST147,Desk,Furniture,East,2,138.24,276.48,Card
+ORD0417,2025-06-10,CUST117,Headphones,Accessories,West,4,85.68,342.72,PayPal
+ORD0418,2025-10-16,CUST081,Mouse,Accessories,West,1,40.52,40.52,Card
+ORD0419,2025-02-12,CUST086,Headphones,Accessories,North,2,93.58,187.16,Card
+ORD0420,2025-12-07,CUST005,Mouse,Accessories,South,2,29.54,59.08,Cash
+ORD0421,2025-04-08,CUST144,Webcam,Electronics,West,1,113.59,113.59,PayPal
+ORD0422,2025-10-21,CUST059,Headphones,Accessories,South,4,44.03,176.12,PayPal
+ORD0423,2025-02-01,CUST135,Webcam,Electronics,North,3,92.71,278.13,Bank Transfer
+ORD0424,2025-08-02,CUST143,Mouse,Accessories,West,4,37.7,150.8,Bank Transfer
+ORD0425,2025-06-17,CUST058,Headphones,Accessories,West,4,161.23,644.92,Cash
+ORD0426,2025-09-11,CUST131,Laptop,Electronics,West,2,685.86,1371.72,Bank Transfer
+ORD0427,2025-09-19,CUST023,Laptop,Electronics,North,2,923.8,1847.6,PayPal
+ORD0428,2025-11-03,CUST011,Mouse,Accessories,West,3,38.27,114.81,Bank Transfer
+ORD0429,2025-06-13,CUST085,Mouse,Accessories,West,4,38.79,155.16,PayPal
+ORD0430,2025-09-25,CUST130,Laptop,Electronics,East,2,736.88,1473.76,Bank Transfer
+ORD0431,2025-04-24,CUST107,Keyboard,Accessories,West,5,83.9,419.5,Cash
+ORD0432,2025-01-08,CUST101,Laptop,Electronics,West,4,761.11,3044.44,Bank Transfer
+ORD0433,2025-09-03,CUST019,Webcam,Electronics,West,3,74.45,223.35,Card
+ORD0434,2025-01-16,CUST129,Monitor,Electronics,East,3,316.41,949.23,Card
+ORD0435,2025-09-26,CUST004,Desk,Furniture,West,5,233.58,1167.9,Cash
+ORD0436,2025-10-10,CUST069,Mouse,Accessories,North,3,19.87,59.61,PayPal
+ORD0437,2025-06-03,CUST126,Laptop,Electronics,South,4,1045.64,4182.56,Card
+ORD0438,2025-09-22,CUST116,Keyboard,Accessories,South,5,46.89,234.45,Cash
+ORD0439,2025-12-30,CUST108,Office Chair,Furniture,North,3,294.7,884.1,Card
+ORD0440,2025-03-17,CUST030,Webcam,Electronics,South,2,130.12,260.24,Bank Transfer
+ORD0441,2025-07-09,CUST034,Headphones,Accessories,North,4,154.77,619.08,PayPal
+ORD0442,2025-10-06,CUST128,Desk,Furniture,South,2,249.77,499.54,Card
+ORD0443,2025-09-28,CUST091,Headphones,Accessories,East,4,103.34,413.36,Card
+ORD0444,2025-03-07,CUST047,Monitor,Electronics,East,5,362.57,1812.85,Cash
+ORD0445,2025-09-04,CUST087,Laptop,Electronics,West,4,774.95,3099.8,PayPal
+ORD0446,2025-10-30,CUST038,Keyboard,Accessories,East,4,81.32,325.28,PayPal
+ORD0447,2025-10-29,CUST142,Headphones,Accessories,West,3,145.66,436.98,Bank Transfer
+ORD0448,2025-11-29,CUST115,Laptop,Electronics,North,1,1083.65,1083.65,Cash
+ORD0449,2025-04-01,CUST098,Keyboard,Accessories,West,3,61.43,184.29,Cash
+ORD0450,2025-07-09,CUST035,Office Chair,Furniture,East,4,207.77,831.08,Cash
+ORD0451,2025-10-08,CUST088,Desk,Furniture,South,3,184.51,553.53,Cash
+ORD0452,2025-10-02,CUST028,Office Chair,Furniture,West,1,187.21,187.21,Card
+ORD0453,2025-05-01,CUST019,Desk,Furniture,East,1,160.95,160.95,Bank Transfer
+ORD0454,2025-10-13,CUST009,Office Chair,Furniture,West,5,244.36,1221.8,Card
+ORD0455,2025-07-22,CUST053,Webcam,Furniture,East,4,73.14,292.56,Card
+ORD0456,2025-03-09,CUST008,Keyboard,Accessories,South,1,28.13,28.13,Card
+ORD0457,2025-09-12,CUST016,Headphones,Accessories,North,1,178.41,178.41,Cash
+ORD0458,2025-03-05,CUST050,Laptop,Electronics,North,4,970.54,3882.16,PayPal
+ORD0459,2025-12-23,,Headphones,Accessories,West,5,71.58,357.9,PayPal
+ORD0460,2025-03-06,CUST008,Laptop,Electronics,North,2,1133.44,2266.88,PayPal
+ORD0461,2025-06-23,CUST047,Desk,Furniture,East,4,282.14,1128.56,Card
+ORD0462,2025-08-20,CUST021,Keyboard,Accessories,East,2,35.71,71.42,Cash
+ORD0463,2025-05-12,CUST055,Monitor,Electronics,East,1,369.71,369.71,Bank Transfer
+ORD0464,2025-03-08,CUST086,Monitor,Electronics,West,4,283.82,1135.28,Unknown
+ORD0465,2025-12-27,CUST001,Webcam,Electronics,West,2,92.02,184.04,PayPal
+ORD0466,2025-03-02,CUST012,Office Chair,Furniture,South,1,120.67,120.67,Cash
+ORD0467,2025-04-03,CUST109,Keyboard,Accessories,North,3,42.99,128.97,PayPal
+ORD0468,2025-12-06,CUST056,Webcam,Electronics,North,3,89.22,267.66,Card
+ORD0469,2025-07-09,CUST136,Headphones,Electronics,East,1,36.11,36.11,Bank Transfer
+ORD0470,2025-12-07,CUST062,Monitor,Electronics,South,1,271.49,271.49,PayPal
+ORD0471,2025-02-06,CUST049,Office Chair,Furniture,North,1,211.31,211.31,Card
+ORD0472,2025-07-02,CUST041,Webcam,Electronics,East,5,77.97,389.85,Card
+ORD0473,2025-11-29,CUST127,Webcam,Electronics,South,3,44.93,134.79,Card
+ORD0474,2025-03-13,CUST109,Laptop,Electronics,West,4,1051.42,4205.68,Card
+ORD0475,2025-04-13,CUST008,Webcam,Electronics,North,1,130.62,130.62,PayPal
+ORD0476,2025-06-26,CUST084,Office Chair,Furniture,South,5,310.81,1554.05,Cash
+ORD0477,2025-05-07,CUST082,Mouse,Accessories,North,4,26.52,106.08,PayPal
+ORD0478,2025-04-23,CUST076,Desk,Furniture,South,4,209.92,839.68,PayPal
+ORD0479,2025-10-12,CUST105,Desk,Furniture,South,1,288.35,288.35,Cash
+ORD0480,2025-07-29,CUST051,Keyboard,Accessories,South,3,63.92,191.76,Card
+ORD0481,2025-06-04,CUST117,Laptop,Electronics,South,4,744.52,2978.08,Card
+ORD0482,2025-10-23,CUST002,Office Chair,Furniture,North,3,242.81,728.43,Card
+ORD0483,2025-11-17,CUST055,Office Chair,Furniture,North,4,187.86,751.44,PayPal
+ORD0484,2025-02-18,CUST127,Mouse,Accessories,East,5,18.69,93.45,Card
+ORD0485,2025-10-04,CUST107,Desk,Furniture,South,1,113.48,113.48,Bank Transfer
+ORD0486,2025-05-02,CUST030,Keyboard,Accessories,West,5,42.9,214.5,Bank Transfer
+ORD0487,2025-06-21,CUST079,Mouse,Accessories,North,3,28.5,85.5,PayPal
+ORD0488,2025-11-09,CUST118,Desk,Furniture,West,3,216.44,649.32,Bank Transfer
+ORD0489,2025-01-07,CUST056,Laptop,Electronics,North,2,741.77,1483.54,Card
+ORD0490,2025-07-21,CUST146,Desk,Furniture,West,4,167.95,671.8,PayPal
+ORD0491,2025-11-01,,Keyboard,Accessories,South,3,51.63,154.89,Bank Transfer
+ORD0492,2025-07-23,CUST065,Headphones,Accessories,East,2,157.05,314.1,Bank Transfer
+ORD0493,2025-12-10,CUST067,Laptop,Electronics,East,5,1184.61,5923.05,Card
+ORD0494,2025-12-29,CUST051,Monitor,Electronics,South,2,190.53,381.06,Cash
+ORD0495,2025-01-30,CUST122,Keyboard,Accessories,North,5,54.8,274.0,Card
+ORD0496,2025-03-28,CUST134,Mouse,Accessories,West,4,24.42,97.68,Unknown
+ORD0497,2025-03-18,CUST059,Monitor,Electronics,East,1,445.68,445.68,Unknown
+ORD0498,2025-10-05,CUST068,Monitor,Electronics,North,1,284.09,284.09,Card
+ORD0499,2025-12-31,CUST086,Laptop,Electronics,North,1,942.74,942.74,PayPal
+ORD0500,2025-12-20,CUST109,Desk,Furniture,East,3,171.24,513.72,Cash
